@@ -1,0 +1,11 @@
+{
+  "name": "es-types-demo",
+  "type": "module",
+  "devDependencies": {
+    "typescript": "5.5.4",
+    "@types/node": "20.14.15"
+  },
+  "dependencies": {
+    "eventsource": "~3.0.1"
+  }
+}
